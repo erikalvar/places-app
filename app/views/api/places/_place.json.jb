@@ -1,0 +1,4 @@
+{
+  name: place.name,
+  address: place.address
+}
